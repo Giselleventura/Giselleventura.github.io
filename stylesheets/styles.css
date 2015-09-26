@@ -390,7 +390,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -545,7 +545,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #e8e8e8;
+  color: wheat;
   margin: 0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -564,7 +564,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 50px;
 }
 
 h4, h5, h6 {
@@ -625,7 +625,7 @@ blockquote {
 code {
   font-family: "Lucida Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #efefef;
-  font-size: 13px;
+  font-size: 50px;
   margin: 0 4px;
   padding: 4px 6px;
   -moz-border-radius: 2px;
@@ -800,7 +800,7 @@ section #title h1 {
   line-height: 36px;
 }
 section #title p {
-  color: #d7cfbe;
+  color: #FF69B4;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 18px;
